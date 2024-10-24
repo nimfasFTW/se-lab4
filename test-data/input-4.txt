@@ -1,2 +1,3 @@
 GT4500,1,0,0,0
 torpedo,all
+TORPEDO,SINGLE
